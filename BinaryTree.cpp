@@ -1,5 +1,6 @@
 #include<iostream>
 #include<queue>
+#include<amp.h>
 using namespace std;
 
 template<class T>
